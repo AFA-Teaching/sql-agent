@@ -28,7 +28,7 @@ The agent is tested against the [Brazilian e-commerce public dataset by Olist](h
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/your-username/sql-agent.git](https://github.com/adamfaik/sql-agent.git)
+git clone [https://github.com/your-username/sql-agent.git](https://github.com/AFA-Teaching/sql-agent.git)
 cd sql-agent
 ```
 
